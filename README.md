@@ -12,9 +12,9 @@
  
  🔭 I’m currently working as **Software Developer**
  
- 🌱 I’m currently learning **Java, Android, Sql,**
+ 🌱 I’m currently learning **Flutter, Android, Sql,**
 
-💬 Ask me about **Java, React, MySQL... 
+💬 Ask me about **Java, Android, MySQL... 
 
  </div>
  
@@ -40,13 +40,7 @@
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
+<hr/>  
   <br/><br/><br/>
 </div>
 
