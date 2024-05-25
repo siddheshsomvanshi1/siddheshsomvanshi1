@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Flutter, Android, Sql,**
 
-💬 Ask me about **Java, Android, MySQL... 
+💬 Ask me about *React,Java, Android, MySQL... 
 
  </div>
  
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
   <a href="github.com/siddheshsomvanshi1" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="www.google.com" target="_blank" /> 
   </a>
 </div>
 
@@ -36,7 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=reactJS,bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,mongodb,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql" /><br>
 </div>
 
 <br/>
@@ -46,9 +46,5 @@
 
 <hr/>
 
-
-<div align="center">
-<a href='' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
 <br/>
