@@ -18,7 +18,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:siddheshsomvanshi1@gmail.com">
+   <a href="mailto:siddheshsomvanshi1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
  <a href="https://www.linkedin.com/in/siddheshsomvanshi" target="_blank">
@@ -28,7 +28,7 @@
 
  <hr/>
  
-<h2 align="center">Frameworks-Tools</h2>
+<h2 align="center">Frameworks-Tools Used</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=reactJS,bootstrap,html,css,vscode,github,figma,git" />
