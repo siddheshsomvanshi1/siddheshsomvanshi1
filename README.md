@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **, Android, SQL**
+ 🌱 I’m currently learning **Android, SQL**
 
 💬 Ask me about **React, Java, Android, MySQL**
 
