@@ -10,14 +10,14 @@ DevOps & Cloud Engineering Enthusiast | AWS • Automation • Infrastructure
 
 <div align="center">
 
-🔧 **Currently working on AWS multiple services and real-world cloud projects**  
+ **Currently working on AWS multiple services and real-world cloud projects**  
 including compute, networking, storage, monitoring, and automation.
 
-🎯 **Actively seeking and interested in roles such as:**  
+ **Actively seeking and interested in roles such as:**  
 DevOps Engineer • Cloud Engineer • Site Reliability Engineer (SRE) •  
-Platform Engineer • MLOps Engineer • Infrastructure Engineer
+Platform Engineer • Infrastructure Engineer
 
-💬 Ask me about **AWS, Linux, Docker, CI/CD, Cloud Architecture, React, Java, MySQL**
+ Ask me about **AWS, Linux, Docker, CI/CD, Cloud , React, MySQL**
 
 </div>
 
